@@ -1,0 +1,11 @@
+{
+    "name": "AuthorBook",
+    "alias": "authorbook",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AuthorBook\\app\\Providers\\AuthorBookServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,7 @@
+@extends('authorbook::layouts.master')
+
+@section('content')
+    <h1>Hello World</h1>
+
+    <p>Module: {!! config('authorbook.name') !!}</p>
+@endsection
